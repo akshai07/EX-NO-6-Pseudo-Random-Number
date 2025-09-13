@@ -20,9 +20,7 @@ Print the generated random number.
 Repeat until count random numbers are generated, then terminate the program.
 
 # Program
-```C
-NAME: RISHI KEERTHI K
-REG NO: 212222043007
+```
 
 #include <stdio.h>
 #include <stdlib.h>
