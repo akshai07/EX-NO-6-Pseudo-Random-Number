@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+# Name:Akshaikhanna D
+# Reg no:212223040010
 
 # AIM: 
 
